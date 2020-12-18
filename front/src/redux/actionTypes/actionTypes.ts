@@ -1,0 +1,9 @@
+export const SET_LYRICS = "SET_LYRICS"
+
+export const GET_LYRICS = "GET_LYRICS"
+
+export const GET_LYRICS_REQUEST = "GET_LYRICS_REQUEST"
+
+export const GET_LYRICS_SUCCESS = "GET_LYRICS_SUCCESS"
+
+export const GET_LYRICS_FAILURE = "GET_LYRICS_FAILURE"
